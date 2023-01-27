@@ -1,0 +1,8 @@
+1. os.environ["HTTP_COOKIE"]
+2. 
+3. HTTP_COOKIE
+4. 
+5. Set-Cookie
+6. Cookie
+7. They save the user specific information to make the user experience better. In genreal they are used to save login info, ad prefrences etc
+8. 
